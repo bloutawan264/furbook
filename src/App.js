@@ -1,3 +1,4 @@
+  
 import React from 'react';
 import Navbar from './components/navbar.js';
 import Splash from './components/splash.js';
@@ -13,6 +14,7 @@ function App() {
       <Splash/>
       <Photos/>
       <Descriptions/>
+     
     </div>
   );
 }
